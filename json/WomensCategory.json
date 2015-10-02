@@ -1,0 +1,17 @@
+{"WomenCategory": {
+    "header": "WCategory",
+    "items": [
+        {"id": "Shirts", "label": "Womens Formal Shirts"},
+        {"id": "FPants", "label": "Womens Formal Pants"},
+        null,
+        {"id": "CShirts", "label": "Womens Casual Shirts"},
+        {"id": "CPants", "label": "Womens Casual Pants"},
+        null,
+        {"id": "TShirt", "label": "Womens T Shirts"},
+        {"id": "RTShirt", "label": "Womens Round Neck T Shirts"},
+        {"id": "CTPants", "label": "Womens Cotton Pants"},
+        {"id": "CTShirts", "label": "Womens Cotton Shirts"},
+        null,
+        {"id": "Help"},
+    ]
+}}

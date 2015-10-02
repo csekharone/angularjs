@@ -1,0 +1,17 @@
+{"MenCategory": {
+    "header": "MCategory",
+    "items": [
+        {"id": "Shirts", "label": "Mens Formal Shirts"},
+        {"id": "FPants", "label": "Mens Formal Pants"},
+        null,
+        {"id": "CShirts", "label": "Mens Casual Shirts"},
+        {"id": "CPants", "label": "Mens Casual Pants"},
+        null,
+        {"id": "TShirt", "label": "Mens T Shirts"},
+        {"id": "RTShirt", "label": "Mens Round Neck T Shirts"},
+        {"id": "CTPants", "label": "Mens Cotton Pants"},
+        {"id": "CTShirts", "label": "Mens Cotton Shirts"},
+        null,
+        {"id": "Help"},
+    ]
+}}

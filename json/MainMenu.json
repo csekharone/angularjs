@@ -1,0 +1,17 @@
+{"menu": {
+    "header": "eShop Menu",
+    "items": [
+        {"id": "Category"},
+        {"id": "Men", "label": "Mens Apparel"},
+        {"id": "MenAssesories", "label": "Mens Accessories"},
+        null,
+        {"id": "Women", "label": "Womens Apparel"},
+        {"id": "WomenAccessories", "label": "Women Accessries"},
+        null,
+        {"id": "Kids", "label": "Kids Apparel"},
+        {"id": "KidsAccessories", "label": "Kids Accessories"},
+        null,
+        {"id": "Help"},
+        {"id": "About", "label": "About eShop..."}
+    ]
+}}

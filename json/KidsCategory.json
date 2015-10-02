@@ -1,0 +1,17 @@
+{"KidsCategory": {
+    "header": "KCategory",
+    "items": [
+        {"id": "Shirts", "label": "Kids Formal Shirts"},
+        {"id": "FPants", "label": "Kids Formal Pants"},
+        null,
+        {"id": "CShirts", "label": "Kids Casual Shirts"},
+        {"id": "CPants", "label": "Kids Casual Pants"},
+        null,
+        {"id": "TShirt", "label": "Kids T Shirts"},
+        {"id": "RTShirt", "label": "Kids Round Neck T Shirts"},
+        {"id": "CTPants", "label": "Kids Cotton Pants"},
+        {"id": "CTShirts", "label": "Kids Cotton Shirts"},
+        null,
+        {"id": "Help"},
+    ]
+}}
